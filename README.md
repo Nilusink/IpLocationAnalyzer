@@ -1,4 +1,5 @@
 # IpLocationAnalyzer (Linux only)
+![Screenshot](screenshots/img.png)
 
 Fetches all current connections, draws the servers and connection information. Adiddionally traceroutes for every connected server.
 
